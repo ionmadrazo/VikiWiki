@@ -1,5 +1,5 @@
 ## Cross-lingual Readability Assessment Dataset in 6 Languages (VikiWiki)
-This repository contains the dataset for the scientific article: Is Cross-lingual Readability Assessment Possible?. This is the result of a research collaboration between [Ion Madrazo Azpiazu](https://ionmadrazo.github.io/) and [Maria Soledad Pera](https://solepera.github.io/).
+This repository contains the dataset for the scientific article: "Is Cross-lingual Readability Assessment Possible?"". This is the result of a research collaboration between [Ion Madrazo Azpiazu](https://ionmadrazo.github.io/) and [Maria Soledad Pera](https://solepera.github.io/).
 
 Please cite this work as follows:
 
