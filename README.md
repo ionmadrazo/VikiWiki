@@ -21,7 +21,7 @@ Most research efforts related to automatic readability assessment focus on the d
 
 
 ### Dataset contents
-The dataset contains corpora in two difficulty levels (Vikidia articles are considered to be simpler than Wikipedia articles) and 6 languages (English, Spanish, French, Italian, Catalan, and Basque).
+The dataset contains corpora in two difficulty levels (Vikidia articles are considered to be simpler than Wikipedia articles) and 6 languages (English, Spanish, French, Italian, Catalan, and Basque). Each level and language contains 448 articles.
 
 
 
